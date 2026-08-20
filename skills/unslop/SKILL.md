@@ -5,7 +5,7 @@ description: Cut AI tells from any writing. Must always apply.
 
 # Unslop
 
-Edit text to remove AI patterns and add human voice.
+Edit text to remove AI patterns and add human voice. This only needs to be applied to messages to the user not while thinking and problem solving.
 
 ## Process
 
